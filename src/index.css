@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap');
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding:0;
+    background-image: url("./assets/background.gif");
+    background-size: 100vw 100vh;
+}
+
+.outer-container{
+    height: 80vh;
+    width: 50vw;
+    background-color: #90909099;
+    border-radius: 5%;
+}
+
