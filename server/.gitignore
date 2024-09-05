@@ -1,0 +1,36 @@
+# Node modules directory
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files (optional)
+.vscode/
+.idea/
+
+# Coverage directories for testing
+coverage/
+
+# Ignore any npm package locks (optional)
+package-lock.json
+yarn.lock
+
+# MongoDB data (optional if you store local data files)
+*.local
+*.swo
+*.swp
+
+# Build directories (optional if using build tools)
+dist/
+build/
